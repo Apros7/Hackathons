@@ -3,8 +3,8 @@
 ## 1: Diabetes overview and summarize WDF efforts (2 min)
 
 - How is diabetes evolving in the world?
-    - [ ] Total diabetes patients
-    - [ ] Future estimates (also region based) (propertion)
+    - [x] Total diabetes patients
+    - [x] Future estimates (also region based) (propertion)
     - [ ] Yearly diagnosed
     - [ ] Yearly undiagnosed
 
@@ -15,8 +15,8 @@
     - [ ] Indian healthcare landscape (hypertension, obesity)
 
 - What have the effects of WDF been in the last two decades?
-    - [ ] Basic information about WDF
-    - [ ] Total projects & total spent (over time)
+    - [x] Basic information about WDF
+    - [x] Total projects & total spent (over time)
     - [ ] Indian projects and spent
 
 ->
