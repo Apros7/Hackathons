@@ -10,9 +10,9 @@
 
 - How does the healthcare landscape look in LMICs?
     - [ ] Region specific (Yearly diagnosed, yearly undiagnosed)
-    - [ ] Largest LMICs (dollars per person spent on diabetes)
-    - [ ] High impact LMICs (dollars per person spent on diabetes)
-    - [ ] Indian healthcare landscape (hypertension, obesity)
+    - [x] Largest LMICs (dollars per person spent on diabetes)
+    - [x] High impact LMICs (dollars per person spent on diabetes)
+    - [x] Indian healthcare landscape (hypertension, obesity)
 
 - What have the effects of WDF been in the last two decades?
     - [x] Basic information about WDF
