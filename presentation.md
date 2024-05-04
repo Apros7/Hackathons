@@ -1,5 +1,5 @@
-### Tackling diabetes (done)
-### Novo Nordisk & WDF challenges status quos (done, Lucas)
+Tackling diabetes (done)
+Novo Nordisk & WDF challenges status quos (done, Lucas)
 ### Novo Nordisk & WDF challenges status quo (LMIC, Lucas)
 ### Indian projects and spent (Alex)
 ### India Healthcare landscape (Alex)
