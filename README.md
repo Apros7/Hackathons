@@ -17,7 +17,7 @@
 - What have the effects of WDF been in the last two decades?
     - [x] Basic information about WDF
     - [x] Total projects & total spent (over time)
-    - [ ] Indian projects and spent
+    - [x] Indian projects and spent
 
 ->
 
@@ -28,15 +28,24 @@
 
 Given place of project, return 
 - Estimated amount of dollars spend per year of life saved (heatmap)
-- Estimated future sales for NN per dollar invested in WDF
 
 Based on various inputs, return estimated score of potential partner
 
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
+1.
+- [ ] Dollars per diagnosed (death, blind, amputated, ...)
+    - Eveyr project find dollars used and patients diagnosed (type 1)
+    - create heatmap
+    - create metric over time
+- [ ] AI: 
+    - ICMR dataset predict diabetes (+ undiagnosed) levels from hypertension and obecity
+        - given diagnosed, return undiagnosed
+    - Based on diabetes procentage (maybe something else) and population size, return 
+- [ ] 
+
+2. Estimated future sales (and people saved) for NN per dollar invested in WDF
+- [ ] NN investment in WDF
+- [ ] WDF patients diagnosed
+- [ ] NN percentage sales of all sales
+- [ ] Up until now NN increase in sales because of WDF
+- [ ] Estimation function for future delivery
 
