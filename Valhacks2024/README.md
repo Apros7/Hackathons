@@ -14,3 +14,12 @@ plan:
 4. Visualize
 5. Combine into single program
 6. Make presentation
+
+- Website to visualize, end function to process input file.
+
+
+Autoencoder:
+- Really lightweight: 11kb
+- Built for extremely lightweight optimization
+- Only downside is that it has to be deployed in Python which puts restrictions on MCUs
+- 13x less data has to be sent over cloud
