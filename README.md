@@ -1,0 +1,2 @@
+- DevoData2024: Devoteam Data Analytics challenge 2024, solving diabetes in India. Got to the final, Top 5.
+- Valhacks2024: [Best](https://best.eu.org/index.jsp) Coding challenge helping [Moonboon](https://moonboon.dk/) analyze sound from babies. Won.
